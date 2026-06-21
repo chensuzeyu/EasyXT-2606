@@ -3,11 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![QMT](https://img.shields.io/badge/QMT-Compatible-orange.svg)](https://www.gtja.com/)
-[![Website](https://img.shields.io/badge/Website-ptqmt.com-blue?logo=google-chrome)](https://www.ptqmt.com)
+[![Website](https://img.shields.io/badge/Website-ptqmt.com-blue)](https://www.ptqmt.com)
 
 > **注意**：本项目使用的是miniQMT环境。QMT有两个版本：完整版QMT（包含GUI界面）和miniQMT（轻量级API版本）。两者在API使用上基本一致，但在环境配置和部署方式上有显著区别。详细区别请参阅 [📖 QMT版本说明](docs/assets/QMT_VERSIONS.md)。
-
-> 量化为王，策略致胜，我是只聊干货的王者 quant！
 
 ---
 
